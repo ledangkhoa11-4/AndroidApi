@@ -1,0 +1,54 @@
+{
+  "pokemons": [
+    {
+      "name": "Pikachu",
+      "description": "Pikachu, the Electric Mouse Pokémon. It can generate electric charges from the electric pouches located on its cheeks.",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+    },
+    {
+      "name": "Charizard",
+      "description": "Charizard, the Flame Pokémon. When expelling a blast of superhot fire, the red flame at the tip of its tail burns more intensely.",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+    },
+    {
+      "name": "Bulbasaur",
+      "description": "Bulbasaur, the Seed Pokémon. A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+    },
+    {
+      "name": "Squirtle",
+      "description": "Squirtle, the Tiny Turtle Pokémon. When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+    },
+    {
+      "name": "Mewtwo",
+      "description": "Mewtwo, the Genetic Pokémon. A Pokémon created by genetic manipulation. It is said to have the most savage heart among Pokémon.",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png"
+    },
+    {
+      "name": "Eevee",
+      "description": "Eevee, the Evolution Pokémon. Its genetic code is unstable, so it could evolve in a variety of ways depending on its environment.",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png"
+    },
+    {
+      "name": "Mew",
+      "description": "Mew, the New Species Pokémon. So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png"
+    },
+    {
+      "name": "Gyarados",
+      "description": "Gyarados, the Atrocious Pokémon. Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png"
+    },
+    {
+      "name": "Dragonite",
+      "description": "Dragonite, the Dragon Pokémon. An extremely rarely seen marine Pokémon. Its intelligence is said to match that of humans.",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png"
+    },
+    {
+      "name": "Gengar",
+      "description": "Gengar, the Shadow Pokémon. Under a full moon, this Pokémon likes to mimic the shadows of people and laugh at their fright.",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png"
+    }
+  ]
+}
